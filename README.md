@@ -7,10 +7,10 @@ Dialogflow를 활용한 급식봇과 한국사퀴즈봇
 
 ## 기능소개
 - 급식봇
-<img width="20%" src="https://user-images.githubusercontent.com/39849610/228476180-995c22fd-7a67-4ec3-8d94-dc5b9cfe5415.png">
+<img width="40%" src="https://user-images.githubusercontent.com/39849610/228476180-995c22fd-7a67-4ec3-8d94-dc5b9cfe5415.png">
 
 - 한국사퀴즈봇
-<img width="20%" src="https://user-images.githubusercontent.com/39849610/228476788-5ba6807c-0fab-4d5c-af81-529a70ee663b.gif">
+<img width="40%" src="https://user-images.githubusercontent.com/39849610/228476788-5ba6807c-0fab-4d5c-af81-529a70ee663b.gif">
 
 ## Tech Stack
 ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
